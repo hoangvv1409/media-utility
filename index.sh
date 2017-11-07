@@ -3,7 +3,7 @@
 for folder in $(ls -d */)
 
 do 
-	`./compress.sh 96k ${folder%%/} >> compress.log` \
-	&& echo "done $folder";
+	nohup ./compress.sh 96k ${folder%%/} >> compress-log.txt \
+	&& echo "done $folder"
 
-done;
+done

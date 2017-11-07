@@ -13,8 +13,8 @@ for F in $FILES
 
 do
 	newname=`basename "$F"` 
-	echo "... processing $2/$newname"
-	ffmpeg -loglevel "error" -i "$F" -acodec libmp3lame -ab $1 "$2/$newname$suffix" \
+	echo "... processing $F"
+	ffmpeg -y -loglevel "error" -i "$F" -acodec libmp3lame -ab $1 "$F$suffix" \
 	&& echo "... removing" && rm "$F" \
 	&& echo "... renaming" && {
 		mv "$F$suffix" "$2/$newname";
