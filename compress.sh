@@ -17,9 +17,9 @@ do
 	ffmpeg -loglevel "error" -i "$F" -acodec libmp3lame -ab $1 "$newname$suffix" \
 	&& echo "... removing" && rm "$F" \
 	&& echo "... renaming" && {
-		mv $newname$suffix $newname;
+		mv "$newname$suffix" "$newname";
 	} \
-	&& echo "done"
+	&& echo "done" || echo "fail"
 
 done
 
