@@ -1,0 +1,18 @@
+... processing ./Ms-Hoa-VNE.mp4
+... removing
+... renaming
+done
+... processing folder1/Ms-Hoa-VNE.mp4
+... removing
+... renaming
+done
+... processing folder2/*.mp4
+folder2/*.mp4: No such file or directory
+fail
+... processing testInotify/*.mp4
+testInotify/*.mp4: No such file or directory
+fail
+... processing video/Ms-Hoa-VNE.mp4
+... removing
+... renaming
+done

@@ -1,0 +1,272 @@
+not process: ./.git/index.lock:2017-11-27 16:06:47
+not process: ./.git/index.lock:2017-11-27 16:06:52
+... processing ./Ms-Hoa-VNE.2.mp4
+... removing
+... renaming
+done
+not process: ./.git/index.lock:2017-11-27 16:08:24
+not process: ./.git/index.lock:2017-11-27 16:08:53
+not process: ./.git/index.lock:2017-11-27 16:08:58
+not process: ./.git/index.lock:2017-11-27 16:09:04
+not process: ./.git/index.lock:2017-11-27 16:09:09
+not process: ./.git/index.lock:2017-11-27 16:09:14
+not process: ./.git/index.lock:2017-11-27 16:09:21
+not process: ./.git/index.lock:2017-11-27 16:09:26
+not process: ./.git/index.lock:2017-11-27 16:09:31
+not process: ./.git/index.lock:2017-11-27 16:09:36
+not process: ./.git/index.lock:2017-11-27 16:09:42
+not process: ./.git/index.lock:2017-11-27 16:09:47
+not process: ./.git/index.lock:2017-11-27 16:09:53
+not process: ./.git/index.lock:2017-11-27 16:10:00
+not process: ./.git/index.lock:2017-11-27 16:10:46
+not process: ./.git/index.lock:2017-11-27 16:10:51
+not process: ./.git/index.lock:2017-11-27 16:10:57
+not process: ./.git/index.lock:2017-11-27 16:11:06
+not process: ./.git/index.lock:2017-11-27 16:11:11
+not process: ./.git/index.lock:2017-11-27 16:11:16
+not process: ./.git/index.lock:2017-11-27 16:11:22
+not process: ./.git/index.lock:2017-11-27 16:11:27
+not process: ./.git/index.lock:2017-11-27 16:11:32
+not process: ./.git/index.lock:2017-11-27 16:11:37
+not process: ./.git/index.lock:2017-11-27 16:11:42
+not process: ./.git/index.lock:2017-11-27 16:11:50
+not process: ./.git/index.lock:2017-11-27 16:11:55
+not process: ./.git/index.lock:2017-11-27 16:12:00
+not process: ./.git/index.lock:2017-11-27 16:12:06
+not process: ./.git/index.lock:2017-11-27 16:12:11
+not process: ./.git/index.lock:2017-11-27 16:12:16
+not process: ./.git/index.lock:2017-11-27 16:12:21
+not process: ./.git/index.lock:2017-11-27 16:12:26
+not process: ./.git/index.lock:2017-11-27 16:12:31
+not process: ./.git/index.lock:2017-11-27 16:12:36
+not process: ./.git/index.lock:2017-11-27 16:12:46
+not process: ./.git/index.lock:2017-11-27 16:12:52
+not process: ./.git/index.lock:2017-11-27 16:12:57
+not process: ./.git/index.lock:2017-11-27 16:13:02
+not process: ./.git/index.lock:2017-11-27 16:13:02
+not process: ./.git/index.lock:2017-11-27 16:13:08
+not process: ./.git/index.lock:2017-11-27 16:13:13
+not process: ./.git/index.lock:2017-11-27 16:13:19
+not process: ./.git/index.lock:2017-11-27 16:13:26
+not process: ./.git/index.lock:2017-11-27 16:13:31
+not process: ./.git/index.lock:2017-11-27 16:13:36
+not process: ./.git/index.lock:2017-11-27 16:13:41
+not process: ./.git/index.lock:2017-11-27 16:13:46
+not process: ./.git/index.lock:2017-11-27 16:13:51
+not process: ./.git/index.lock:2017-11-27 16:13:56
+not process: ./.git/index.lock:2017-11-27 16:14:08
+not process: ./.git/index.lock:2017-11-27 16:14:13
+not process: ./.git/index.lock:2017-11-27 16:14:18
+not process: ./.git/index.lock:2017-11-27 16:14:23
+not process: ./.git/index.lock:2017-11-27 16:14:35
+not process: ./.git/index.lock:2017-11-27 16:14:40
+not process: ./.git/index.lock:2017-11-27 16:14:45
+not process: ./.git/index.lock:2017-11-27 16:14:50
+not process: ./.git/index.lock:2017-11-27 16:14:55
+not process: ./.git/index.lock:2017-11-27 16:15:08
+not process: ./.git/index.lock:2017-11-27 16:15:15
+not process: ./.git/index.lock:2017-11-27 16:16:16
+not process: ./.git/index.lock:2017-11-27 16:16:17
+not process: ./.goutputstream-5V189Y:2017-11-27 16:16:55
+not process: ./.git/index.lock:2017-11-27 16:16:57
+not process: ./.git/index.lock:2017-11-27 16:17:24
+not process: ./.git/index.lock:2017-11-27 16:17:29
+not process: ./.git/index.lock:2017-11-27 16:17:35
+not process: ./.git/index.lock:2017-11-27 16:17:44
+not process: ./.git/index.lock:2017-11-27 16:17:49
+not process: ./.git/index.lock:2017-11-27 16:18:16
+not process: ./.git/index.lock:2017-11-27 16:18:21
+not process: ./.git/index.lock:2017-11-27 16:18:26
+not process: ./.git/index.lock:2017-11-27 16:18:32
+not process: ./.git/index.lock:2017-11-27 16:18:37
+not process: ./.git/index.lock:2017-11-27 16:18:42
+not process: ./.git/index.lock:2017-11-27 16:18:47
+not process: Setting up watches.  Beware:
+not process: Watches established.:
+not process: ./.git/index.lock:2017-11-27 16:19:05
+not process: ./.git/index.lock:2017-11-27 16:19:14
+... processing ./Ms-Hoa-VNE.mp4
+... removing
+... renaming
+done
+not process: ./Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:19:19
+not process: ./.git/index.lock:2017-11-27 16:19:20
+not process: ./.git/index.lock:2017-11-27 16:20:12
+not process: ./folder2/.goutputstream-L5GGAZ:2017-11-27 16:21:58
+not process: ./.git/index.lock:2017-11-27 16:22:05
+not process: ./.git/index.lock:2017-11-27 16:22:10
+not process: ./.git/index.lock:2017-11-27 16:22:15
+not process: ./.git/index.lock:2017-11-27 16:22:22
+not process: ./.git/index.lock:2017-11-27 16:22:23
+not process: ./.git/index.lock:2017-11-27 16:24:25
+not process: ./.git/index.lock:2017-11-27 16:24:30
+not process: ./.git/index.lock:2017-11-27 16:24:38
+not process: ./.git/index.lock:2017-11-27 16:24:43
+not process: ./.git/index.lock:2017-11-27 16:24:52
+not process: Setting up watches.  Beware:
+not process: Watches established.:
+not process: ./.git/index.lock:2017-11-27 16:27:32
+not process: ./.git/index.lock:2017-11-27 16:27:49
+not process: ./.git/index.lock:2017-11-27 16:27:54
+not process: ./folder2/.goutputstream-CGHCAZ:2017-11-27 16:28:09
+not process: ./folder2/.goutputstream-F0579Y:2017-11-27 16:28:10
+not process: ./.git/index.lock:2017-11-27 16:28:32
+... processing ./folder2/file.mp3
+... removing
+... renaming
+done
+not process: ./.git/index.lock:2017-11-27 16:28:54
+not process: ./.git/index.lock:2017-11-27 16:28:59
+not process: ./.git/index.lock:2017-11-27 16:30:11
+not process: ./.git/index.lock:2017-11-27 16:30:13
+not process: ./.git/index.lock:2017-11-27 16:30:18
+not process: ./.git/index.lock:2017-11-27 16:30:23
+not process: ./.git/index.lock:2017-11-27 16:30:29
+not process: ./.git/index.lock:2017-11-27 16:30:34
+not process: ./.git/index.lock:2017-11-27 16:30:39
+not process: ./.git/index.lock:2017-11-27 16:30:44
+not process: Setting up watches.  Beware:
+not process: Watches established.:
+not process: ./.git/index.lock:2017-11-27 16:30:54
+... processing ./folder2/file.mp3
+... removing
+... renaming
+done
+not process: ./.git/index.lock:2017-11-27 16:31:56
+not process: ./.git/index.lock:2017-11-27 16:32:41
+not process: ./.git/index.lock:2017-11-27 16:33:01
+not process: ./.git/index.lock:2017-11-27 16:33:08
+not process: Setting up watches.  Beware:
+not process: Watches established.:
+not process: ./.git/index.lock:2017-11-27 16:33:29
+... processing ./folder2/file.mp3
+... removing
+... renaming
+done
+not process: ./folder2/file.mp3.tmpmp3:2017-11-27 16:33:38
+not process: ./.git/index.lock:2017-11-27 16:33:40
+not process: ./.git/index.lock:2017-11-27 16:33:53
+not process: ./.git/index.lock:2017-11-27 16:33:58
+... processing ./folder2/file (3rd copy).mp3
+... removing
+... renaming
+done
+... processing ./folder2/file (4th copy).mp3
+... removing
+... renaming
+done
+not process: ./folder2/file (3rd copy).mp3.tmpmp3:2017-11-27 16:34:06
+not process: ./folder2/file (4th copy).mp3.tmpmp3:2017-11-27 16:34:18
+not process: ./.git/index.lock:2017-11-27 16:34:36
+not process: ./.git/index.lock:2017-11-27 16:34:41
+not process: ./.git/index.lock:2017-11-27 16:34:46
+not process: ./.git/index.lock:2017-11-27 16:34:51
+not process: ./.git/index.lock:2017-11-27 16:34:56
+not process: ./.git/index.lock:2017-11-27 16:35:01
+not process: ./.git/index.lock:2017-11-27 16:35:06
+not process: ./.git/index.lock:2017-11-27 16:35:11
+not process: ./.git/index.lock:2017-11-27 16:35:17
+not process: ./.git/index.lock:2017-11-27 16:35:22
+not process: ./.git/index.lock:2017-11-27 16:35:27
+not process: ./.git/index.lock:2017-11-27 16:35:32
+not process: ./.git/index.lock:2017-11-27 16:35:45
+not process: ./.git/index.lock:2017-11-27 16:35:50
+not process: ./.git/index.lock:2017-11-27 16:35:55
+not process: ./.git/index.lock:2017-11-27 16:36:00
+not process: ./.git/index.lock:2017-11-27 16:36:05
+not process: ./.git/index.lock:2017-11-27 16:36:23
+not process: ./.git/index.lock:2017-11-27 16:36:25
+not process: ./.git/index.lock:2017-11-27 16:36:30
+not process: ./compress-mp4-log.txt:2017-11-27 16:36:33
+not process: ./Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:36:33
+not process: ./.git/index.lock:2017-11-27 16:36:35
+not process: ./.git/index.lock:2017-11-27 16:36:51
+not process: ./folder1/Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:37:09
+not process: ./video/Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:38:00
+not process: ./.git/index.lock:2017-11-27 16:41:13
+not process: ./.git/index.lock:2017-11-27 16:41:14
+... processing ./folder2/Ms-Hoa-VNE.mp4
+fail
+not process: ./.git/index.lock:2017-11-27 16:42:24
+... processing ./folder2/Ms-Hoa-VNE.1.mp4
+fail
+not process: ./.git/index.lock:2017-11-27 16:42:37
+... processing ./testInotify/file.mp3
+... removing
+... renaming
+done
+not process: ./testInotify/file.mp3.tmpmp3:2017-11-27 16:43:25
+... processing ./testInotify/Ms-Hoa-VNE.mp4
+... removing
+... renaming
+done
+not process: ./testInotify/Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:43:42
+not process: ./.git/index.lock:2017-11-27 16:44:04
+not process: ./.git/index.lock:2017-11-27 16:44:09
+not process: ./.git/index.lock:2017-11-27 16:44:25
+not process: ./.git/index.lock:2017-11-27 16:44:25
+not process: ./.git/index.lock:2017-11-27 16:44:38
+... processing ./folder2/Ms-Hoa-VNE.mp4
+... removing
+... renaming
+done
+not process: ./folder2/Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:44:59
+not process: ./.git/index.lock:2017-11-27 16:45:31
+not process: ./.git/index.lock:2017-11-27 16:47:40
+not process: ./.git/index.lock:2017-11-27 16:47:42
+not process: ./.git/index.lock:2017-11-27 16:47:46
+... processing ./folder2/Ms-Hoa-VNE.1.mp4
+fail
+not process: ./.git/index.lock:2017-11-27 16:47:51
+not process: ./.git/index.lock:2017-11-27 16:47:56
+not process: ./.git/index.lock:2017-11-27 16:48:01
+not process: ./.git/index.lock:2017-11-27 16:48:06
+... processing ./folder2/Ms-Hoa-VNE.mp4
+fail
+not process: ./.git/index.lock:2017-11-27 16:48:12
+... processing ./folder2/file (3rd copy).mp3
+... removing
+... renaming
+done
+not process: ./folder2/file (3rd copy).mp3.tmpmp3:2017-11-27 16:48:22
+not process: ./.git/index.lock:2017-11-27 16:48:36
+not process: ./.git/index.lock:2017-11-27 16:48:41
+... processing ./folder1/Ms-Hoa-VNE.mp4
+fail
+not process: ./.git/index.lock:2017-11-27 16:48:51
+not process: ./.git/index.lock:2017-11-27 16:48:56
+... processing ./folder1/Ms-Hoa-VNE.mp4
+fail
+... processing ./folder1/Ms-Hoa-VNE.mp4
+... removing
+... renaming
+done
+not process: ./folder1/Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:49:39
+not process: ./.git/index.lock:2017-11-27 16:49:43
+not process: ./.git/index.lock:2017-11-27 16:50:46
+not process: ./.git/index.lock:2017-11-27 16:50:50
+not process: ./.git/index.lock:2017-11-27 16:50:51
+not process: ./Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:51:01
+not process: ./.git/index.lock:2017-11-27 16:51:36
+not process: ./.git/index.lock:2017-11-27 16:51:41
+not process: ./folder2/Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:51:46
+not process: ./.git/index.lock:2017-11-27 16:52:19
+not process: ./.git/index.lock:2017-11-27 16:52:45
+not process: ./.git/index.lock:2017-11-27 16:52:50
+not process: ./.git/index.lock:2017-11-27 16:53:06
+not process: ./.git/index.lock:2017-11-27 16:53:15
+not process: ./.git/index.lock:2017-11-27 16:53:20
+... processing ./folder2/Ms-Hoa-VNE.mp4
+... removing
+... renaming
+done
+not process: ./folder2/Ms-Hoa-VNE.mp4.tmpmp4:2017-11-27 16:53:22
+not process: ./.git/index.lock:2017-11-27 16:53:25
+not process: ./.git/index.lock:2017-11-27 17:03:04
+not process: ./.git/index.lock:2017-11-27 17:03:06
+not process: Setting up watches.  Beware:
+not process: Watches established.:
+not process: ./.git/index.lock:2017-11-27 17:06:05
+not process: ./.git/index.lock:2017-11-27 17:06:08
+not process: ./.git/index.lock:2017-11-27 17:06:10
+not process: ./.git/index.lock:2017-11-27 17:07:11

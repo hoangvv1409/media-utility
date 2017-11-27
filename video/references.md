@@ -1,0 +1,5 @@
+1. [adaptive streaming with HLS](https://stackoverflow.com/questions/37364716/how-do-i-create-playlists-different-bandwidth-wit-ffmpeg)
+2. [EXT-X-STREAM-INF tag in .m3u8 file](https://tools.ietf.org/html/draft-pantos-http-live-streaming-07#section-3.3.10)
+3. [Info about Bandwidth](https://stackoverflow.com/questions/11196852/http-live-streaming-ext-x-stream-inf-calculating-bandwith)
+4. [A reference project](https://github.com/bentasker/HLS-Stream-Creator/blob/master/HLS-Stream-Creator.sh)
+5. [Demo play hls](http://demos.flowplayer.org/plugins/hlsjs.html#)
