@@ -1,3 +1,0 @@
-./:CREATE:f5.txt
-./:CREATE:f6.txt
-./:CREATE&ISDIR:d5
